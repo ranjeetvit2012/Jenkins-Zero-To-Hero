@@ -1,7 +1,4 @@
 # Jenkins-Zero-To-Hero
-Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.
-
-# Jenkins-Zero-To-Hero
 
 Are you looking forward to learn Jenkins right from Zero(installation) to Hero(Build end to end pipelines)? then you are at the right place. 
 
@@ -94,7 +91,7 @@ Create First Admin User or Skip the step [If you want to use this Jenkins instan
 
 Jenkins Installation is Successful. You can now starting using the Jenkins 
 
-<img width="990" alt="Screenshot 2023-02-01 at 11 14 13 AM" src="https://user-images.githubusercontent.com/43399466/215961440-3f13f82b-61a2-4117-88bc-0da265a67fa7.png">
+<img width="990" alt="Screenshot 2023-02-01 at 11 14 13 AM" src="https://raw.githubusercontent.com/ranjeetvit2012/Jenkins-Zero-To-Hero/refs/heads/main/Screenshot_8.png">
 
 ## Install the Docker Pipeline plugin in Jenkins:
 
@@ -134,7 +131,6 @@ http://<ec2-instance-public-ip>:8080/restart
 ```
 
 The docker agent configuration is now successful.
-
 
 
 
